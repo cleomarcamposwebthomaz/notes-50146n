@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cleomarcamposwebthomaz.github.io/notes-50146n/sitemap.xml
